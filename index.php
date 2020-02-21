@@ -1,6 +1,6 @@
 <?php
-    include_once("/php/head.php");
-    include_once("/php/navbar.php");
+    include_once("./php/head.php");
+    include_once("./php/navbar.php");
 ?>
 
 <!DOCTYPE HTML>

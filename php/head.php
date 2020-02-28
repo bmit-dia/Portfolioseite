@@ -1,5 +1,5 @@
 <?php
-    $headinfo = '<meta charset="utf-8">
+    $GLOBALS['headinfo'] = '<meta charset="utf-8">
                 <meta name="description" content="Portfolioseite von Alessandro Di Maria">
                 <meta name="keywords" content="Portfolio, HTML, CSS, Alessandro Di Maria, JS, PHP, Bootstrap">
                 <meta name="author" content="Alessandro Di Maria">
@@ -7,14 +7,14 @@
                 <title>Alessandro Di Maria</title>
                 
                 <!-- Bootstrap CSS -->
-                <link rel="stylesheet" href="./css/style.css">
-                <link rel="stylesheet" href="./css/bootstrap.css">
+                <link rel="stylesheet" href="/css/style.css">
+                <link rel="stylesheet" href="/css/bootstrap.css">
 
                 <!-- jQuery -->
                 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
 
                 <!-- Bootstrap JS -->
-                <script src="./js/bootstrap.js"></script>
+                <script src="/js/bootstrap.js"></script>
 
                 <!-- favicon -->
                 <link rel="apple-touch-icon" sizes="57x57" href="./favicon/apple-icon-57x57.png">

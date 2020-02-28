@@ -44,7 +44,7 @@
                 Meine momentanen Projekte sind ein VBA-Scribt, welches die Überstunden des gesamten Firmenkaders aus deren Excelfiles
                 zusammenzählt und in eine Exceltabelle einträgt. Am zweiten Projekt arbeite ich schon ein wenig länger. Es handelt
                 sich um ein System, welches mittels E-Paper Displays die nächsten 3 Termine des jeweiligen Sitzungszimmers anzeigt.
-                Bei weiterem Interesse zu den Projekten, kann man über das Menü oder durch einen Klick <a href="./pages/projekte.php">hier</a> zur Seite wechseln.
+                Bei weiterem Interesse zu den Projekten, kann man über das Menü oder durch einen Klick <a href="/pages/project.php">hier</a> zur Seite wechseln.
             </p>
         </div>
     </body>

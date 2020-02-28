@@ -55,19 +55,6 @@
                         </p>
                     </div>
                 </div>
-                <!-- A076K -->
-                <div class="carousel-item">
-                    <img class="d-block w-100" src="/images/project/Exceldateien.png" alt="Excelfiles">
-                    <div class="d-none d-md-block">
-                        <h5>Zeiterfassungsaufaddierer</h5>
-                        <p>
-                            Dieses Projekt ist eine eher kleine Aufgabe. Die Buchhaltung der ESPAS möchte 
-                            eine Möglichkeit, alle Gleitzeitsaldos aller Kadermitglieder in einer Datei 
-                            zusammengefasst haben. Dazu nutze schreibe ich ein <a href="https://de.wikipedia.org/wiki/Visual_Basic_for_Applications">VBA</a> Script mit welchem ich
-                            ein Dateisystem absuche und die dort vorhandenen Exceldateien nach diesen Feldern absuche.
-                        </p>
-                    </div>
-                </div>
                 <!-- A013K -->
                 <div class="carousel-item">
                     <img class="d-block w-100" src="/images/project/Badgingwebsite.png" alt="Excelfiles">
@@ -86,7 +73,7 @@
                 </div>
                 <!-- A027K -->
                 <div class="carousel-item">
-                    <img class="d-block w-100" src="/images/project/library.png" alt="Libraryseite">
+                    <img class="d-block w-100" src="/images/project/Library.png" alt="Libraryseite">
                     <div class="d-none d-md-block">
                         <h5>Library</h5>
                         <p>
@@ -117,7 +104,7 @@
                 </div>
                 <!-- Ode an die Liebe -->
                 <div class="carousel-item">
-                    <img class="d-block w-100" src="/images/project/VLC_media_player.png" alt="VLC Media Player">
+                    <img class="d-block w-100" src="/images/project/VLC_media_player.PNG" alt="VLC Media Player">
                     <div class="d-none d-md-block">
                         <h5>Cd brennen</h5>
                         <p>

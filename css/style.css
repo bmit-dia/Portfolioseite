@@ -14,12 +14,21 @@ body{
 }
 
 @media (max-width: 800px) {
-    body{
-        background-image: none;
+    
+    .no-display{
+        display: none;
     }
 
     .center{
         margin: 0;
         padding: 10px;
+        padding-top: 10%;
+    }
+}
+
+@media (max-width: 500px){
+    
+    .center{
+    padding-top: 20%;
     }
 }

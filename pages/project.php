@@ -19,7 +19,7 @@
                 <div class="carousel-inner">
                     <!-- A069K -->
                     <div class="carousel-item active">
-                        <img class="d-block w-100" src="/images/project/Kalenderbild.png" alt="Sitzungszimmer Displays">
+                        <img class="d-block image-shrink" src="/images/project/Kalenderbild.png" alt="Sitzungszimmer Displays">
                         <div class="d-md-block">
                             <h5>Sitzungszimmer Displays</h5>
                             <p>
@@ -35,7 +35,7 @@
                     </div>
                     <!-- A076K -->
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="/images/project/Exceldateien.png" alt="Excelfiles">
+                        <img class="d-block image-shrink" src="/images/project/Exceldateien.png" alt="Excelfiles">
                         <div class="d-md-block">
                             <h5>Zeiterfassungsaufaddierer</h5>
                             <p>
@@ -48,7 +48,7 @@
                     </div>
                     <!-- A013K -->
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="/images/project/Badgingwebsite.png" alt="Excelfiles">
+                        <img class="d-block image-shrink" src="/images/project/Badgingwebsite.png" alt="Excelfiles">
                         <div class="d-md-block">
                             <h5>Badging</h5>
                             <p>
@@ -64,7 +64,7 @@
                     </div>
                     <!-- A027K -->
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="/images/project/Library.png" alt="Libraryseite">
+                        <img class="d-block image-shrink" src="/images/project/Library.png" alt="Libraryseite">
                         <div class="d-md-block">
                             <h5>Library</h5>
                             <p>
@@ -81,7 +81,7 @@
                     </div>
                     <!-- Verkabelungsauftrag KV GL Büro -->
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="/images/project/Verkabelung.jpg" alt="Excelfiles">
+                        <img class="d-block image-shrink" src="/images/project/Verkabelung.jpg" alt="Excelfiles">
                         <div class="d-md-block">
                             <h5>Verkabelungsauftrag KV Gruppenleiterbüro</h5>
                             <p>
@@ -95,7 +95,7 @@
                     </div>
                     <!-- Ode an die Liebe -->
                     <div class="carousel-item">
-                        <img class="d-block w-100" src="/images/project/VLC_media_player.PNG" alt="VLC Media Player">
+                        <img class="d-block image-shrink" src="/images/project/VLC_media_player.PNG" alt="VLC Media Player">
                         <div class="d-md-block">
                             <h5>Cd brennen</h5>
                             <p>

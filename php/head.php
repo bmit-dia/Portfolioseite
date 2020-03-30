@@ -1,5 +1,5 @@
 <?php
-    $GLOBALS['headinfo'] = '<meta charset="utf-8">
+    $GLOBALS['headinfo'] = '<meta charset="UTF-8">
                 <meta name="description" content="Portfolioseite von Alessandro Di Maria">
                 <meta name="keywords" content="Portfolio, HTML, CSS, Alessandro Di Maria, JS, PHP, Bootstrap">
                 <meta name="author" content="Alessandro Di Maria">
